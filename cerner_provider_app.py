@@ -5,7 +5,7 @@ from urllib.parse import urlencode
 
 # --- Configuration ---
 CLIENT_ID = "11c867a3-5c5a-4857-9835-ca22859e7882"
-REDIRECT_URI = "http://localhost:8501/"
+REDIRECT_URI = "https://fhirbootcampcernerpatientapp-hnpgmdgeaktgwttvbpzqtf.streamlit.app/"
 SCOPES = "launch openid fhirUser profile user/Patient.read user/Patient.write user/Observation.read user/Observation.write"
 
 # --- Functions ---
